@@ -3,7 +3,7 @@
 body{
     background-color: rgb(0, 0, 0);
     padding: 5px;
-    width: 800px;
+    width: 684px;
     margin-left: 5%;
     
 }
@@ -11,7 +11,7 @@ body{
 
 .card{
     background-color: #14143f ;
-    border-radius: 1%;
+    border-radius: 3px 0px 0px 3px;
     display:flex;
     padding-left: 25%;
     margin:80px
@@ -23,7 +23,7 @@ body{
     font-family: 'Lexend Deca', sans-serif;
     margin:-28%;
     margin-top:10px;
-    margin-left: -30%;
+    margin-left: -35%;
     
 }
 
@@ -38,7 +38,7 @@ body{
 
 .count{
     display: flex;
-    margin-left:-35%;
+    margin-left:-40%;
     word-spacing: 1px;
     margin-top: 25px;
 }
@@ -46,7 +46,7 @@ body{
 .text{
     color: white;
     font-family: 'Lexend Deca', sans-serif;
-    font-size:larger;
+    font-size:medium;
     margin-top: 15px;
 } 
 
@@ -67,6 +67,7 @@ span{
 .imagen1{
     display:flex-end;
     height: 400px;
+    background-color: blueviolet;
      
 }
 
@@ -74,6 +75,7 @@ span{
     border-radius: 0px 3px 3px 0px;
     width: 600px;
     height:400px;
+    opacity: 0.4;
     
      
 }
